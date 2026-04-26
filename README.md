@@ -1,4 +1,4 @@
-# ml-overoptimism-publication-bias
+# ML-overoptimism-publication-bias
 
 Code and reproducibility materials for experiments studying overoptimism, publication bias, data leakage, and overfitting in machine learning-driven science.
 
